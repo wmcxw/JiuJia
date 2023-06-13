@@ -21,7 +21,7 @@ member_id: ""
 # 接种成员身份证号码
 id_card: ""
 # 选择的地区代码,4位,成都为 5101
-region_code: "5101"
+region_code: "1100"
 # cookie
 cookie: ""
 # 接种疫苗id
